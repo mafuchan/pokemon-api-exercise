@@ -1,4 +1,4 @@
-Dployed link
+Deployed link https://crecraft-pokeapi.herokuapp.com
 
 ## Pokemon API
 
