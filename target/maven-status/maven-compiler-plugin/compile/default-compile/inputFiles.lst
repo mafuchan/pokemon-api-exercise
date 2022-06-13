@@ -1,1 +1,6 @@
-/Users/mcrecraft/coding/dailywork/api/pokemon-api-exercise/pokeapi/src/main/java/com/mcrecraft/pokeapi/PokeapiApplication.java
+/Users/mcrecraft/coding/dailywork/api/pokemon-api-exercise/src/main/java/com/mcrecraft/pokeapi/pokemon/PokemonService.java
+/Users/mcrecraft/coding/dailywork/api/pokemon-api-exercise/src/main/java/com/mcrecraft/pokeapi/pokemon/PokemonController.java
+/Users/mcrecraft/coding/dailywork/api/pokemon-api-exercise/src/main/java/com/mcrecraft/pokeapi/PokeapiApplication.java
+/Users/mcrecraft/coding/dailywork/api/pokemon-api-exercise/src/main/java/com/mcrecraft/pokeapi/pokemon/Pokemon.java
+/Users/mcrecraft/coding/dailywork/api/pokemon-api-exercise/src/main/java/com/mcrecraft/pokeapi/pokemon/PokemonRepository.java
+/Users/mcrecraft/coding/dailywork/api/pokemon-api-exercise/src/main/java/com/mcrecraft/pokeapi/exception/ResourceNotFoundException.java
